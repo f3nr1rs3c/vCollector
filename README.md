@@ -28,4 +28,7 @@ pip install pyvmomi
 - Betiği çalıştırın:
 ```bash
 python3 vm_info_collector.py
+```
 
+## ⚠️ Uyarı
+- Bu betik, SSL doğrulamasını devre dışı bırakır. Sadece güvenilir ve test ortamlarında kullanılması önerilir.
