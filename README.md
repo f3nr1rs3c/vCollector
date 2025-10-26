@@ -20,3 +20,12 @@ Aşağıdaki Python paketlerinin kurulu olması gerekir:
 
 ```bash
 pip install pyvmomi
+```
+
+## ⚙️ Kullanım
+
+- Betikteki host, user ve pwd alanlarını kendi vCenter/ESXi bilgilerinize göre düzenleyin.
+- Betiği çalıştırın:
+```bash
+python3 vm_info_collector.py
+
